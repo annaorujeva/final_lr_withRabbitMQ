@@ -1,0 +1,14 @@
+app\store\StoreService.class
+app\service\FileComputerService.class
+app\Main.class
+app\service\RoomService.class
+app\service\FileRoomService.class
+app\domain\Room.class
+app\exception\NoPlaceException.class
+app\service\ComputerService.class
+app\domain\Computer.class
+app\repository\Repository.class
+app\store\RoomStore.class
+app\store\ComputerStore.class
+app\repository\FileRepository.class
+app\Config.class
