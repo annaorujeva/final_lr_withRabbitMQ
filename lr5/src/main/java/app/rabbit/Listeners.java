@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @EnableRabbit
-public class Server {
+public class Listeners {
 
     @Autowired
     ComputerService computerService;
